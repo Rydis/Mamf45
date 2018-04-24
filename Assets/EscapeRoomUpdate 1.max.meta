@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: f7a7dde1a912a8f40a342e66a8b286e2
-timeCreated: 1524569651
+guid: ff012331fcb6494419a1b04059b18087
+timeCreated: 1524571431
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -33,8 +33,9 @@ ModelImporter:
     2100002: 'Material #7'
     2100004: 'Material #4'
     2100006: 'Material #5'
-    2100008: DoorColor
+    2100008: 'Material #8'
     2100010: No Name
+    2100012: DoorColor
     2300000: Door-blade_9_21_L
     2300002: Door-blade_9_21_L001
     2300004: Door_9_022
